@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "ThorGuards Rarity",
+  "version": "0.1.0",
+  "description": "Shows rarity rank for ThorGuards NFT",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["ranks.js", "content.js"],
+    "matches": ["https://opensea.io/*"]
+  }]
+
+}
