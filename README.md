@@ -3,8 +3,10 @@
 0. Download and unzip this project
 1. Open Chrome browser (or compatible)
 2. Navigate to chrome://extensions/
-3. Drag & drop folder "ext" to the list of extensions.
-4. Make sure that "ThorGuards Rarity 0.1.0" extension is on.
+3. Turn on "Developer mode"
+4. Click "Load packed extension"
+5. Locate the "ext" folder inside the project.
+5. Make sure that "ThorGuards Rarity 0.1.0" extension is there and on.
 
 ## How do you calculate rarity?
 
