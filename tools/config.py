@@ -6,7 +6,7 @@ class Config:
     PATH_THUMB = './data/thumb'
     PATH_ALL_META = './data/allmeta.json'
     PATH_ONLY_RANKS = './data/ranks.json'
-    PATH_ONLY_RANKS_JS = '../ranks.js'
+    PATH_ONLY_RANKS_JS = '../ext/ranks.js'
 
     DOWNLOAD_IMAGES = False
     DOWNLOAD_METADATA = True
